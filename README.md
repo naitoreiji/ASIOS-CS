@@ -5,4 +5,7 @@ les dossiers on était stocké sur GitHub pour des raisons informatiques et d'é
 
 À fin de naviguer dans les dossiers rien de plus simple un fois sur la page ou repose le projet vous verrez un dossier texte "READMEE.md" qui est celui-ci il sert à vous expliquer et vous guidez dans le projet :)).
 
-apres la lu de ce fichier vous pourrez revenir a ariere et cliquer sur le nom de l'autre dossier intutiler.
+Après la lue de ce fichier vous pourrez revenir à ariere et cliquer sur le nom de l'autre dossier intituler Asiosecuriter une fois ouverte, certes en pagaille mais merci de ne pas déplacer les fichiers, 
+les dossiers les plus intéressants est les suivants.
+
+
