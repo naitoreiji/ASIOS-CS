@@ -16,6 +16,6 @@ chat.py/.js/.php/.css
 chatbox.html/.js/.css
 
 et ce sera déjà pas mal ;) vous pourriez constater dû charabia informatique mais cela sert à construire l'intégralité de mon site internet qui sert également de support pour les victimes de cybers-violences 
-Également beaucoup d'images incorporaient de montage photo de logo vidéo etc que vous pourrez lire dna le dossier "complement" dont une vidéo MP4 très importante merci d'avance du visionnage !
+Également beaucoup d'images incorporaient de montage photo de logo vidéo etc que vous pourrez lire dna le dossier "complement" dont une vidéo MP4 très importante merci d'avance du visionnage pour la lire il vous faudra cliquer sur son nom puis sur "view raw" elle se telechargera sur votre navigateur  !
 
 
